@@ -60,6 +60,8 @@
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans   &trans
                         &trans  &trans  &trans    &trans  &trans  &trans
             >;
+
+            label = "FN keys";
         };
 
         raise_layer {
